@@ -4,9 +4,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.7%20|%203.8%20|%203.9-blue)](https://www.python.org/downloads/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Repo Size](https://img.shields.io/github/repo-size/badges/shields.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning)
-[![Issues](https://img.shields.io/github/issues/mohdrizwan/DeepLearning.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning/issues)
-[![Forks](https://img.shields.io/github/forks/mohdrizwan/DeepLearning.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning/network/members)
-[![Stars](https://img.shields.io/github/stars/mohdrizwan/DeepLearning.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning/stargazers)
 
 Welcome to **DeepLearning**! This repository is your ultimate guide to mastering deep learning concepts with Keras. Dive into tutorials, explore advanced algorithms, and work on practical projects to enhance your skills in artificial intelligence. Let's embark on this AI journey together! 🌟
 
