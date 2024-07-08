@@ -107,4 +107,3 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 🌟 Start your deep learning journey today and unlock the full potential of AI with Keras and this extensive resource. Happy learning! 🌟
 ```
 
-This version includes more emojis, better sectioning, and a friendly tone to make the README more engaging and attractive.
