@@ -1,6 +1,16 @@
 # DeepLearning 🌐🚀
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.7%20|%203.8%20|%203.9-blue)](https://www.python.org/downloads/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Repo Size](https://img.shields.io/github/repo-size/badges/shields.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning)
+[![Issues](https://img.shields.io/github/issues/mohdrizwan/DeepLearning.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning/issues)
+[![Forks](https://img.shields.io/github/forks/mohdrizwan/DeepLearning.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning/network/members)
+[![Stars](https://img.shields.io/github/stars/mohdrizwan/DeepLearning.svg?style=flat-square)](https://github.com/mohdrizwan/DeepLearning/stargazers)
+
 Welcome to **DeepLearning**! This repository is your ultimate guide to mastering deep learning concepts with Keras. Dive into tutorials, explore advanced algorithms, and work on practical projects to enhance your skills in artificial intelligence. Let's embark on this AI journey together! 🌟
+
+![Deep Learning](https://miro.medium.com/max/1200/1*uAPAdHn15xDq6_RBsYUU5w.jpeg)
 
 ## 📚 Table of Contents
 
@@ -107,3 +117,4 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 🌟 Start your deep learning journey today and unlock the full potential of AI with Keras and this extensive resource. Happy learning! 🌟
 ```
 
+This version of the README includes multiple badges, a hero image, and a more structured and visually appealing layout to make it engaging and professional.
