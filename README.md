@@ -7,7 +7,7 @@
 
 Welcome to **DeepLearning**! This repository is your ultimate guide to mastering deep learning concepts with Keras. Dive into tutorials, explore advanced algorithms, and work on practical projects to enhance your skills in artificial intelligence. Let's embark on this AI journey together! 🌟
 
-![Deep Learning](https://miro.medium.com/max/1200/1*uAPAdHn15xDq6_RBsYUU5w.jpeg)
+
 
 ## 📚 Table of Contents
 
